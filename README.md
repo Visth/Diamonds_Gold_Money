@@ -15,9 +15,9 @@
 
 ## Description
 
+- **Mobile first strategy used!**
 - Website of a (hypothetical) company called Diamonds, Gold & Money.
 - This project is a one-page type of website.
-- **Mobile first strategy used!**
 - Website contains few sections and many animations, like moving gray shapes in the background (As You can see on the screenshots).
 
 #### Technology used:
@@ -32,10 +32,10 @@
 ## What I Learned
 
 - Using most important **SEO tags** in modern websites.
-- Using SCSS in a bigger project with many classes.
-- Using **rows** and **columns** in Bootstrap
-- Creating hero-images and sliders of images.
-- Creating cards with Bootstrap Library and style them.
+- Using SCSS and import CSS variables from other files.
+- Using **GRID**.
+- Using BEM methodology in naming classes in HTML.
+- Creating semi-advanced animations (in this example - moving shapes in the background).
 
 <hr/>
 
